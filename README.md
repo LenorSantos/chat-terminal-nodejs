@@ -27,7 +27,7 @@ No terminal digite os seguintes comandos:
 
 #### Recebe as mensagens e o nick do usuário
 
-```http
+```
   POST /
 ```
 
