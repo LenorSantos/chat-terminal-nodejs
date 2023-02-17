@@ -1,5 +1,7 @@
 # chat-terminal-nodejs
- Chat via terminal utilizando NodeJS com criptografia
+Chat via terminal utilizando NodeJS com criptografia.
+
+Somente com esse programa é possivel enviar e receber mensagem sem precisar abrir programas de terceiros ou até mesmo multiplos arquivos, e a criptografia é ponta-ponta.
 
 ## Configurar
 
